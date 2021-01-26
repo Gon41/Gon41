@@ -1,6 +1,7 @@
 ### Bienvenidos a mi GitHub 👋
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gon41&layout=compact)](https://github.com/Gon41/github-readme-stats)
 
 
 ![Gonzalo's github stats](https://github-readme-stats.vercel.app/api?username=Gon41&show_icons=true&theme=merko)
