@@ -1,5 +1,6 @@
 # Data Analyst | Sociologist
 
+----
 
 ## About me:
 
