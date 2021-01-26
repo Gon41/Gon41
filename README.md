@@ -3,15 +3,15 @@
 
 After graduating in Sociology and completing my knowledge with a Master's degree in Sociology Applied to Social Problems, I decided to bet on the immediate future as Big Data. I have done the Data Analytics bootcamp at `Ironhack`, which is an intensive way to complement my knowledge from the programming, allowing you to be totally free, creative and autonomous.
 
-These are some of my projects in Ironhack:
+These are some of my **projects** in Ironhack:
 
-'''
-- 1º Proyect: [Minigame - Guess a Number Game](https://github.com/Gon41/1-Minigame-Guess-a-Number-Game)
+
+- [x] 1º Proyect: [Minigame - Guess a Number Game](https://github.com/Gon41/1-Minigame-Guess-a-Number-Game)
 - 2º Proyect: [Pandas - Shark's Proyect](https://github.com/Gon41/2-Pandas-Proyect-Sharks)
 - 3º Proyect: [Web Scraping - Football Players](https://github.com/Gon41/3-Pipelines-Web-Scraping-Football-Players)
 - 4º Proyect: [API - Geospatial's Proyect](https://github.com/Gon41/4-Geospatial-Project)
 - 5º Proyect: [Machine Learning - Diamonds Competition](https://github.com/Gon41/5-Diamonds-Competition-Machine-Learning)
-'''
+
 ----
 
 
