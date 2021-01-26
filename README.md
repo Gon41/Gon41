@@ -1,8 +1,11 @@
 # Data Analyst | Sociologist
 --------
 ✔ Data: Cleaning, Manipulation, Mining, Visualization, APIs, Web Scraping.
+
 ✔ Languages and platforms: Python, SQL, MongoDB, Git, GitHub, Tableau.
+
 ✔ Librarys: Pandas, Numpy, MatplotLib, Seaborn, Scipy, Scikit-learn
+
 ✔ Supervised and Unsupervised Machine Learning, NLP, Recommended Systems
 
 
