@@ -1,4 +1,10 @@
-### Bienvenidos a mi GitHub 👋
+# Data Analyst | Sociologist
+--------
+✔ Data: Cleaning, Manipulation, Mining, Visualization, APIs, Web Scraping.
+✔ Languages and platforms: Python, SQL, MongoDB, Git, GitHub, Tableau.
+✔ Librarys: Pandas, Numpy, MatplotLib, Seaborn, Scipy, Scikit-learn
+✔ Supervised and Unsupervised Machine Learning, NLP, Recommended Systems
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gon41&layout=compact)](https://github.com/Gon41/github-readme-stats)
