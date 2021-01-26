@@ -13,11 +13,11 @@ After graduating in Sociology and completing my knowledge with a Master's degree
 These are some of my **projects** in Ironhack:
 
 
-- :diamonds: 1º Proyect: [Minigame - Guess a Number Game](https://github.com/Gon41/1-Minigame-Guess-a-Number-Game)
-- :dolphin: 2º royect: [Pandas - Shark's Proyect](https://github.com/Gon41/2-Pandas-Proyect-Sharks)
-- :soccer: 3º Proyect: [Web Scraping - Football Players](https://github.com/Gon41/3-Pipelines-Web-Scraping-Football-Players)
-- :satellite: 4º Proyect: [API - Geospatial's Proyect](https://github.com/Gon41/4-Geospatial-Project)
-- :gem: 5º Proyect: [Machine Learning - Diamonds Competition](https://github.com/Gon41/5-Diamonds-Competition-Machine-Learning)
+:diamonds: 1. [Minigame - Guess a Number Game:](https://github.com/Gon41/1-Minigame-Guess-a-Number-Game)
+:dolphin: 2. [Pandas - Shark's Proyect:](https://github.com/Gon41/2-Pandas-Proyect-Sharks)
+:soccer: 3. [Web Scraping - Football Players:](https://github.com/Gon41/3-Pipelines-Web-Scraping-Football-Players)
+:satellite: 4. [API - Geospatial's Proyect:](https://github.com/Gon41/4-Geospatial-Project)
+:gem: 5. [Machine Learning - Diamonds Competition:](https://github.com/Gon41/5-Diamonds-Competition-Machine-Learning)
 
 
 
@@ -35,6 +35,8 @@ These are some of my **projects** in Ironhack:
 
 
 [LinkedIn](https://sensorstechforum.com/wp-content/uploads/2018/04/linkedin-logo-sensorstechforum-300x300.png)
+---
+
 [Mail](https://logos-marcas.com/wp-content/uploads/2020/11/Gmail-Logo-650x366.png)
 
 
