@@ -1,7 +1,13 @@
 # Data Analyst | Sociologist
 --------
 
+## About me:
+
 After graduating in Sociology and completing my knowledge with a Master's degree in Sociology Applied to Social Problems, I decided to bet on the immediate future as Big Data. I have done the Data Analytics bootcamp at `Ironhack`, which is an intensive way to complement my knowledge from the programming, allowing you to be totally free, creative and autonomous.
+
+-----
+
+## Proyects
 
 These are some of my **projects** in Ironhack:
 
