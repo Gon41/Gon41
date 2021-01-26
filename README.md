@@ -2,6 +2,9 @@
 
 [![Gonzalo's github stats](https://github-readme-stats.vercel.app/api?username=Gon41)](https://github.com/Gon41/github-readme-stats)
 
+![Gonzalo's github stats](https://github-readme-stats.vercel.app/api?username=Gon41&show_icons=true)
+
+
 <!--
 **Gon41/Gon41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
