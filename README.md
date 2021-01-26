@@ -6,16 +6,16 @@ After graduating in Sociology and completing my knowledge with a Master's degree
 These are some of my **projects** in Ironhack:
 
 
-- [x] 1º Proyect: [Minigame - Guess a Number Game](https://github.com/Gon41/1-Minigame-Guess-a-Number-Game)
-- [x] 2º royect: [Pandas - Shark's Proyect](https://github.com/Gon41/2-Pandas-Proyect-Sharks)
-- [x] 3º Proyect: [Web Scraping - Football Players](https://github.com/Gon41/3-Pipelines-Web-Scraping-Football-Players)
-- [x] 4º Proyect: [API - Geospatial's Proyect](https://github.com/Gon41/4-Geospatial-Project)
-- [x] 5º Proyect: [Machine Learning - Diamonds Competition](https://github.com/Gon41/5-Diamonds-Competition-Machine-Learning)
+- :diamonds: 1º Proyect: [Minigame - Guess a Number Game](https://github.com/Gon41/1-Minigame-Guess-a-Number-Game)
+- :dolphin: 2º royect: [Pandas - Shark's Proyect](https://github.com/Gon41/2-Pandas-Proyect-Sharks)
+- :soccer: 3º Proyect: [Web Scraping - Football Players](https://github.com/Gon41/3-Pipelines-Web-Scraping-Football-Players)
+- :satellite: 4º Proyect: [API - Geospatial's Proyect](https://github.com/Gon41/4-Geospatial-Project)
+- :gem: 5º Proyect: [Machine Learning - Diamonds Competition](https://github.com/Gon41/5-Diamonds-Competition-Machine-Learning)
 
 ----
 
 
-- FINAL PROYECT: APP for Accommodation in Madrid [GitHub Pages](https://github.com/Gon41/FINAL-PROYECT-APP-for-Accommodation-in-Madrid)
+- :house_with_garden: FINAL PROYECT: APP for Accommodation in Madrid [GitHub Pages](https://github.com/Gon41/FINAL-PROYECT-APP-for-Accommodation-in-Madrid)
 
 :+1:
 
