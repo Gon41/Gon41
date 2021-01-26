@@ -24,9 +24,9 @@ These are some of my **projects** in Ironhack:
 :gem: 5. [Machine Learning - Diamonds Competition:](https://github.com/Gon41/5-Diamonds-Competition-Machine-Learning)
 
 
+-----
 
-
-- :house_with_garden: FINAL PROYECT: APP for Accommodation in Madrid [GitHub Pages](https://github.com/Gon41/FINAL-PROYECT-APP-for-Accommodation-in-Madrid)
+:house_with_garden: FINAL PROYECT: APP for Accommodation in Madrid [GitHub Pages](https://github.com/Gon41/FINAL-PROYECT-APP-for-Accommodation-in-Madrid)
 
 
 
