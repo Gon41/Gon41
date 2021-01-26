@@ -7,7 +7,7 @@ After graduating in Sociology and completing my knowledge with a Master's degree
 
 -----
 
-## Proyects
+## Proyects:
 
 These are some of my **projects** in Ironhack:
 
@@ -18,7 +18,7 @@ These are some of my **projects** in Ironhack:
 - :satellite: 4º Proyect: [API - Geospatial's Proyect](https://github.com/Gon41/4-Geospatial-Project)
 - :gem: 5º Proyect: [Machine Learning - Diamonds Competition](https://github.com/Gon41/5-Diamonds-Competition-Machine-Learning)
 
-----
+
 
 
 - :house_with_garden: FINAL PROYECT: APP for Accommodation in Madrid [GitHub Pages](https://github.com/Gon41/FINAL-PROYECT-APP-for-Accommodation-in-Madrid)
