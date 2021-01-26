@@ -17,7 +17,6 @@ These are some of my **projects** in Ironhack:
 
 - :house_with_garden: FINAL PROYECT: APP for Accommodation in Madrid [GitHub Pages](https://github.com/Gon41/FINAL-PROYECT-APP-for-Accommodation-in-Madrid)
 
-:+1:
 
 
 
