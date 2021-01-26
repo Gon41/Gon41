@@ -11,6 +11,7 @@ These are some of my projects in Ironhack:
 - 4º Proyect: [API - Geospatial's Proyect](https://github.com/Gon41/4-Geospatial-Project)
 - 5º Proyect: [Machine Learning - Diamonds Competition](https://github.com/Gon41/5-Diamonds-Competition-Machine-Learning)
 
+----
 
 
 - FINAL PROYECT: APP for Accommodation in Madrid [GitHub Pages](https://github.com/Gon41/FINAL-PROYECT-APP-for-Accommodation-in-Madrid)
@@ -19,10 +20,13 @@ These are some of my projects in Ironhack:
 
 
 
+-----
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gon41&layout=compact)](https://github.com/Gon41/github-readme-stats)
 
 
-"""![Gonzalo's github stats](https://github-readme-stats.vercel.app/api?username=Gon41&show_icons=true&theme=merko)"""
+
 
 
 <!--
