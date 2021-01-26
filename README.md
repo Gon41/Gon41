@@ -38,10 +38,9 @@ These are some of my **projects** in Ironhack:
 
 
 
-[LinkedIn](https://sensorstechforum.com/wp-content/uploads/2018/04/linkedin-logo-sensorstechforum-300x300.png)
 ---
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/gonzaloarroyotomas/) or in my [Email](arroyogonzalo41@gmail.com)
+You can find me on [LinkedIn](https://www.linkedin.com/in/gonzaloarroyotomas/) or in my Mail: arroyogonzalo41@gmail.com
 
 
 <!--
