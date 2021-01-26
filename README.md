@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bienvenidos a mi GitHub 👋
+
+[![Gonzalo's github stats](https://github-readme-stats.vercel.app/api?username=Gon41)](https://github.com/Gon41/github-readme-stats)
 
 <!--
 **Gon41/Gon41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
