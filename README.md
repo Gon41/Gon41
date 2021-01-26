@@ -3,7 +3,7 @@
 
 
 
-![Gonzalo's github stats](https://github-readme-stats.vercel.app/api?username=Gon41&show_icons=true&theme=dark)
+![Gonzalo's github stats](https://github-readme-stats.vercel.app/api?username=Gon41&show_icons=true&theme=darkgreen)
 
 
 <!--
