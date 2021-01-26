@@ -26,7 +26,7 @@ These are some of my steps with python and some of the **projects** in Ironhack:
 
 -----
 
-:house_with_garden: FINAL PROYECT: APP for Accommodation in Madrid [GitHub Pages](https://github.com/Gon41/FINAL-PROYECT-APP-for-Accommodation-in-Madrid)
+:house_with_garden: FINAL PROYECT: [APP for Accommodation in Madrid](https://github.com/Gon41/FINAL-PROYECT-APP-for-Accommodation-in-Madrid)
 
 
 
