@@ -1,8 +1,9 @@
 ### Bienvenidos a mi GitHub 👋
 
-[![Gonzalo's github stats](https://github-readme-stats.vercel.app/api?username=Gon41)](https://github.com/Gon41/github-readme-stats)
 
-![Gonzalo's github stats](https://github-readme-stats.vercel.app/api?username=Gon41&show_icons=true)
+
+
+![Gonzalo's github stats](https://github-readme-stats.vercel.app/api?username=Gon41&show_icons=true&theme=radical)
 
 
 <!--
