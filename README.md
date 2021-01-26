@@ -10,18 +10,18 @@ After graduating in Sociology and completing my knowledge with a Master's degree
 
 ## Proyects:
 
-These are some of my **projects** in Ironhack:
+These are some of my steps with python and some of the **projects** in Ironhack:
 
 
-:diamonds: 1. [Minigame - Guess a Number Game:](https://github.com/Gon41/1-Minigame-Guess-a-Number-Game)
+:diamonds: 1. [Minigame - Guess a Number Game](https://github.com/Gon41/1-Minigame-Guess-a-Number-Game) 
 
-:dolphin: 2. [Pandas - Shark's Proyect:](https://github.com/Gon41/2-Pandas-Proyect-Sharks)
+:dolphin: 2. [Pandas - Shark's Proyect](https://github.com/Gon41/2-Pandas-Proyect-Sharks) 
 
-:soccer: 3. [Web Scraping - Football Players:](https://github.com/Gon41/3-Pipelines-Web-Scraping-Football-Players)
+:soccer: 3. [Web Scraping - Football Players](https://github.com/Gon41/3-Pipelines-Web-Scraping-Football-Players) 
 
-:satellite: 4. [API - Geospatial's Proyect:](https://github.com/Gon41/4-Geospatial-Project)
+:satellite: 4. [API - Geospatial's Proyect](https://github.com/Gon41/4-Geospatial-Project) 
 
-:gem: 5. [Machine Learning - Diamonds Competition:](https://github.com/Gon41/5-Diamonds-Competition-Machine-Learning)
+:gem: 5. [Machine Learning - Diamonds Competition](https://github.com/Gon41/5-Diamonds-Competition-Machine-Learning)
 
 
 -----
